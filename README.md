@@ -1,2 +1,2 @@
 # design_pattern
-design pattern
+programming design pattern for C/C++ language
